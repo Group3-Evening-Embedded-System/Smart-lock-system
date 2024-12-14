@@ -1,5 +1,4 @@
-
-           #GROUP 3 members Evening Class
+# GROUP 3 members Evening Class
 NAME 	                    REGISTRATION NUMBER  	STUDENT NUMBER 
 Twesige Trejan 	            23/U/18302/EVE 	        2300718302 
 Serube Beris Martin 	    23/U/26173/EXT 	        2300762173 
